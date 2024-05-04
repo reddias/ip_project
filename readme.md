@@ -11,6 +11,7 @@ If you want to create demo users and tasks you can easily with db:seed command.
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+First of all, copy and rename .env.example file and write your db config.
 
 #### Requirements
 `PHP 7.2` `Nginx` `MySQL` `Composer` `Node.js`
